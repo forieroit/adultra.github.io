@@ -1,4 +1,4 @@
-baseURL = 'https://adultra.github.io/'
+baseURL = 'https://blog.adultra.riccardopedrielli.com/'
 languageCode = 'en-us'
 title = 'Adultra blog'
 theme = "ananke"
