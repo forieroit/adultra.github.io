@@ -1,4 +1,11 @@
 baseURL = 'https://blog.adultra.riccardopedrielli.com/'
 languageCode = 'en-us'
 title = 'Adultra blog'
-theme = "ananke"
+theme = "jeffprod"
+
+[permalinks]
+post = "/:year/:filename"
+
+[taxonomies]
+tag = "tags"
+archive = "archives"
